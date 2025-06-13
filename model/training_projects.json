@@ -1,0 +1,226 @@
+[
+  {
+    "id": "p1",
+    "name": "Tech for Good",
+    "description": "Developing apps for local nonprofits",
+    "skillsReq": [
+      "python",
+      "web development",
+      "mobile app development"
+    ],
+    "location": {
+      "lat": 37.7849,
+      "lng": -122.4294
+    }
+  },
+  {
+    "id": "p2",
+    "name": "Data Analysis Workshop",
+    "description": "Teaching data skills to underserved communities",
+    "skillsReq": [
+      "data analysis",
+      "teaching",
+      "statistics"
+    ],
+    "location": {
+      "lat": 37.7649,
+      "lng": -122.4194
+    }
+  },
+  {
+    "id": "p3",
+    "name": "AI Ethics Committee",
+    "description": "Discussing ethical implications of AI",
+    "skillsReq": [
+      "machine learning",
+      "ethics",
+      "public speaking"
+    ],
+    "location": {
+      "lat": 37.7749,
+      "lng": -122.3994
+    }
+  },
+  {
+    "id": "p4",
+    "name": "Coding Bootcamp",
+    "description": "Teaching coding to beginners",
+    "skillsReq": [
+      "python",
+      "web development",
+      "teaching"
+    ],
+    "location": {
+      "lat": 37.7849,
+      "lng": -122.4094
+    }
+  },
+  {
+    "id": "p5",
+    "name": "Nonprofit Branding",
+    "description": "Creating visual identities for nonprofits",
+    "skillsReq": [
+      "graphic design",
+      "marketing",
+      "branding"
+    ],
+    "location": {
+      "lat": 40.7228,
+      "lng": -74.006
+    }
+  },
+  {
+    "id": "p6",
+    "name": "Social Media Campaign",
+    "description": "Raising awareness for homeless shelters",
+    "skillsReq": [
+      "social media",
+      "content creation",
+      "marketing"
+    ],
+    "location": {
+      "lat": 40.7128,
+      "lng": -74.016
+    }
+  },
+  {
+    "id": "p7",
+    "name": "Math Tutoring Program",
+    "description": "Tutoring underprivileged students",
+    "skillsReq": [
+      "mathematics",
+      "tutoring",
+      "education"
+    ],
+    "location": {
+      "lat": 34.0622,
+      "lng": -118.2437
+    }
+  },
+  {
+    "id": "p8",
+    "name": "STEM Workshop",
+    "description": "Introducing STEM to middle school students",
+    "skillsReq": [
+      "teaching",
+      "science",
+      "mathematics"
+    ],
+    "location": {
+      "lat": 34.0522,
+      "lng": -118.2637
+    }
+  },
+  {
+    "id": "p9",
+    "name": "Senior Care Center",
+    "description": "Assisting elderly residents",
+    "skillsReq": [
+      "elderly care",
+      "healthcare",
+      "compassion"
+    ],
+    "location": {
+      "lat": 29.7704,
+      "lng": -95.3698
+    }
+  },
+  {
+    "id": "p10",
+    "name": "First Aid Training",
+    "description": "Teaching first aid to community members",
+    "skillsReq": [
+      "first aid",
+      "teaching",
+      "healthcare"
+    ],
+    "location": {
+      "lat": 29.7604,
+      "lng": -95.3798
+    }
+  },
+  {
+    "id": "p11",
+    "name": "Community Garden",
+    "description": "Building and maintaining community gardens",
+    "skillsReq": [
+      "gardening",
+      "community organizing",
+      "sustainability"
+    ],
+    "location": {
+      "lat": 47.6162,
+      "lng": -122.3321
+    }
+  },
+  {
+    "id": "p12",
+    "name": "Environmental Cleanup",
+    "description": "Organizing beach and park cleanups",
+    "skillsReq": [
+      "environmental conservation",
+      "community organizing",
+      "project management"
+    ],
+    "location": {
+      "lat": 47.6062,
+      "lng": -122.3421
+    }
+  },
+  {
+    "id": "p13",
+    "name": "Remote Data Analysis",
+    "description": "Analyzing data for international NGO",
+    "skillsReq": [
+      "python",
+      "data analysis",
+      "statistics"
+    ],
+    "location": {
+      "lat": 51.5074,
+      "lng": -0.1278
+    }
+  },
+  {
+    "id": "p14",
+    "name": "Virtual Tutoring",
+    "description": "Online tutoring for rural students",
+    "skillsReq": [
+      "teaching",
+      "mathematics",
+      "online communication"
+    ],
+    "location": {
+      "lat": 19.076,
+      "lng": 72.8777
+    }
+  },
+  {
+    "id": "p15",
+    "name": "SF Symphony Volunteer",
+    "description": "Helping with music events",
+    "skillsReq": [
+      "music",
+      "event planning",
+      "customer service"
+    ],
+    "location": {
+      "lat": 37.7749,
+      "lng": -122.4205
+    }
+  },
+  {
+    "id": "p16",
+    "name": "NY Legal Aid",
+    "description": "Administrative support for legal clinic",
+    "skillsReq": [
+      "legal",
+      "administrative",
+      "database management"
+    ],
+    "location": {
+      "lat": 40.7138,
+      "lng": -74.007
+    }
+  }
+]

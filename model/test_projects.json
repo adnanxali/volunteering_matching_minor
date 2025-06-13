@@ -1,0 +1,44 @@
+[
+  {
+    "id": "tp1",
+    "name": "Data Science for Social Good",
+    "description": "Using data science to solve social problems",
+    "skillsReq": [
+      "python",
+      "data analysis",
+      "machine learning"
+    ],
+    "location": {
+      "lat": 37.7849,
+      "lng": -122.4294
+    }
+  },
+  {
+    "id": "tp2",
+    "name": "Public Health Workshop",
+    "description": "Educating communities about health",
+    "skillsReq": [
+      "healthcare",
+      "teaching",
+      "public health"
+    ],
+    "location": {
+      "lat": 29.7704,
+      "lng": -95.3798
+    }
+  },
+  {
+    "id": "tp3",
+    "name": "Remote Machine Learning Project",
+    "description": "Developing ML models for charity",
+    "skillsReq": [
+      "python",
+      "machine learning",
+      "statistics"
+    ],
+    "location": {
+      "lat": 51.5074,
+      "lng": -0.1278
+    }
+  }
+]

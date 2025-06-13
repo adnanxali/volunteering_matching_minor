@@ -1,0 +1,30 @@
+[
+  {
+    "id": "tv1",
+    "name": "Samantha Wilson",
+    "skills": [
+      "python",
+      "machine learning",
+      "data visualization"
+    ],
+    "interest": "AI ethics",
+    "location": {
+      "lat": 37.7849,
+      "lng": -122.4194
+    }
+  },
+  {
+    "id": "tv2",
+    "name": "Robert Chen",
+    "skills": [
+      "healthcare",
+      "nutrition",
+      "public health"
+    ],
+    "interest": "community wellness",
+    "location": {
+      "lat": 29.7604,
+      "lng": -95.3798
+    }
+  }
+]
